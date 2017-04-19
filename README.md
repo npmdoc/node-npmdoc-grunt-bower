@@ -1,9 +1,14 @@
-# api documentation for  [grunt-bower (v0.21.4)](https://github.com/curist/grunt-bower)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-bower.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-bower) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-bower.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-bower)
+# npmdoc-grunt-bower
+
+#### api documentation for  [grunt-bower (v0.21.4)](https://github.com/curist/grunt-bower)  [![npm package](https://img.shields.io/npm/v/npmdoc-grunt-bower.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-grunt-bower) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-grunt-bower.svg)](https://travis-ci.org/npmdoc/node-npmdoc-grunt-bower)
+
 #### Copy bower installed components to dist folder.
 
-[![NPM](https://nodei.co/npm/grunt-bower.png?downloads=true)](https://www.npmjs.com/package/grunt-bower)
+[![NPM](https://nodei.co/npm/grunt-bower.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/grunt-bower)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-bower/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-grunt-bower_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-bower/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-grunt-bower/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-grunt-bower/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-grunt-bower/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-grunt-bower/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-grunt-bower/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "curist",
-        "email": "curist.cyc@gmail.com"
+        "name": "curist"
     },
     "bugs": {
         "url": "https://github.com/curist/grunt-bower/issues"
@@ -56,13 +60,11 @@
     "main": "grunt.js",
     "maintainers": [
         {
-            "name": "curist",
-            "email": "curist.cyc@gmail.com"
+            "name": "curist"
         }
     ],
     "name": "grunt-bower",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/curist/grunt-bower.git"
@@ -73,16 +75,6 @@
     "version": "0.21.4"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module grunt-bower](#apidoc.module.grunt-bower)
-
-
-
-# <a name="apidoc.module.grunt-bower"></a>[module grunt-bower](#apidoc.module.grunt-bower)
 
 
 
